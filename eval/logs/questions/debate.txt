@@ -1,0 +1,31 @@
+Show the party that has the most people.
+can you show me a list of people names?
+can you show me the oldest one?
+can you show me average of ages?
+Show the party that has the most people
+Show the names of people and the number of times they have been on the affirmative side of debates.
+What are the names of the people who have been on the affirmative side of debates?
+What are their party affiliations?
+How many debates did they win total?
+Show the names of people that are on affirmative side of debates with number of audience bigger than 200.
+Can you show me the names of the people who were on the affirmative side of debates with an audience bigger than 200?
+Of those three, who is the oldest?
+What party affiliation does James Humphrey hold?
+What district does James Humphrey represent?
+Show the names of people, and dates and venues of debates they are on the affirmative side.
+can you list the names of all people?
+list the dates of debates
+list all the venues of the the debates
+List the names of people that have not been on the affirmative side of debates.
+Could you please tell me the names of the people that have not been on the affirmative side of all debates?
+Could you please tell me their party affiliations?
+What are their ages?
+Show the names of people, and dates and venues of debates they are on the affirmative side.
+What are all the names of the people?
+What are the names of the people who are in the affirmative side?
+What are the venues of debates on the affirmative side?
+What are the dates of the debates on the affirmative side?
+Show the names of people aged either 35 or 36.
+what is the name of people aged either 35 or 36
+how old is Luther C. Carter?
+what is the age of William B. Maclay

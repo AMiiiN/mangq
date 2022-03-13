@@ -1,0 +1,45 @@
+query MyQuery { members(key: "Membership_Card", val: "Black") { Address, Membership_Card } }
+query MyQuery { members { Level_of_membership, Membership_Card } }
+query MyQuery { members(key: "Membership_Card", val: "Black") { Membership_Card } }
+query MyQuery { members(key: "Membership_Card", val: "White") { Time_of_purchase, Membership_Card } }
+Error: no types found.
+query MyQuery { members(key: "Address", val: "Hartford") { Membership_Card, Address } }
+query MyQuery { members { Membership_Card } }
+query MyQuery { members(key: "Name", val: "Ashby, Lazale") { Age } }
+query MyQuery { members(key: "Name", val: "Ashby, Lazale") { Time_of_purchase } }
+query MyQuery { members(key: "Name", val: "Breton, Robert") { Level_of_membership, Membership_Card } }
+query MyQuery { shops(key: "Score", val: "30") { Address } }
+query MyQuery { members(key: "Name", val: "Breton, Robert") { Membership_Card } }
+query MyQuery { members(key: "Name", val: "Breton, Robert") { Age } }
+query MyQuery { happyhours(key: "Month", val: "May") { ID, Shop } }
+query MyQuery { max(type: "shops", field: "ID") }
+query MyQuery { happyhours(key: "Month", val: "May") { Shop } }
+Error: no types found.
+query MyQuery { members(key: "Level_of_membership", val: "2") { Happy_Hours } }
+Error: no types found.
+Error: no types found.
+query MyQuery { members(key: "Level_of_membership", val: "2") { Happy_Hours } }
+query MyQuery { shops { Score, Number_of_staff } }
+Error: no fields found.
+query MyQuery { min(type: "shops", field: "Number_of_staff") }
+query MyQuery { avg(type: "shops", field: "Number_of_staff") }
+query MyQuery { shops(key: "Score", val: "30") { ID } }
+query MyQuery { shops(key: "Score", val: "30") { ID } }
+query MyQuery { members(key: "Membership_Card", val: "Black") { ID, Name, Membership_Card } }
+query MyQuery { shops(key: "Score", val: "30") { ID } }
+query MyQuery { members(key: "Membership_Card", val: "Black") { Membership_Card } }
+Error: no types found.
+query MyQuery { max(type: "happyhours", field: "Month") }
+query MyQuery { happyhours(key: "Month", val: "June") { Staff_in_charge } }
+Error: no fields found.
+query MyQuery { max(type: "members", field: "Happy_Hours") }
+query MyQuery { shops { ID, Happy_Hours } }
+query MyQuery { shops(key: "Score", val: "30") { Address } }
+query MyQuery { shops(key: "Score", val: "30") { Address } }
+query MyQuery { shops(key: "Score", val: "40") { Address } }
+query MyQuery { shops(key: "Score", val: "30") { Address } }
+query MyQuery { shops { Score, Number_of_staff } }
+query MyQuery { max(type: "shops", field: "Score") }
+Error: no fields found.
+Error: no fields found.
+Error: no types found.

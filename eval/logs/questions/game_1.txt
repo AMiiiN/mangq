@@ -1,0 +1,111 @@
+Which game type has most number of games?
+Tell me the Gtype of the GameID 1 ?
+What is the GameID of the GName RNG Stone ?
+Tell me the GName of the GType Role-playing game ?
+Which game type has most number of games ?
+What is the first name and last name of the student who have most number of sports?
+How many students are playing multiple sports?
+What are the names of the two students who are playing multiple sports?
+Show all advisors who have at least two students.
+can you please show me all the advisors?
+show me all advisors who does not have at least two students?
+which advisors have at least two students?
+Show total hours per week and number of games played for student David Shieber.
+How many hours per week did David Shieber play? | Do you mean the total hours per week did David Shieber play? (He can play different sports) | Yes, total hours
+What are the total number of games he played?
+What are the first and last names of the student who played the most total hours per week?
+How many total games did she play?
+Show all game names played by at least 1000 hours.
+What are the names of all games that were played for at least 1000 hours?
+What are the names of all games that were played for less than 1000 hours?
+What are the average hours played for each game type?
+Show student ids who don't have any sports.
+Can you show me the student names with ids?
+Hmm, can you list the student ids with sports played?
+I want to know the student names and ids who don’t play any sports.
+Show the game name that has most number of hours played.
+How many hours of role-playing games were played?
+What game had the most hours played?
+Who played the most hours of Works of Widenius?
+How many students play Works of Widenius?
+What game type is Works of Widenius?
+Show total hours per week and number of games played for students under 20.
+What are the number of games played for students under the age of 20?
+What are the total hours per week students under the age of 20 played games?
+What is the most common sport name those students played?
+Which game type has most number of games?
+list all the game type
+list the name of a shooting game. | Do you mean "First-person shooter" games? | yes i mean "first-person shooter" game?
+which game type has least number of games?
+Which game type has most number of games?
+Show student ids who are female and play football.
+show student ids who are female and play football
+what is the name of the student with the id 1002 | Would you like first name and last name of the student with student id 1002? | yes
+what is the first name and last name of the student with the student id 1003
+Show the game name that has most number of hours played.
+Show the game name that has most number of hours played.
+Show the game that least number of hours played.
+how many student played the game? | Would you like to know how many entries in the plays games table correspond to The Vanishing of Eric Calder? | yes
+Show ids of students who play video game and play sports.
+Please show me the ids of the students who play video games and play sports?
+Show last names for all student who are on scholarship.
+How many students are on scholarship?
+What are the last names for those students?
+What are their first names?
+What are their majors?
+What sport name do they play?
+How many games are played for all football games by students on scholarship?
+list number of games played by students
+how many of those are played by students on scholarship?
+list all the names of the sports available
+Show student ids who are female and play football.
+which students are female? | Do you want the ids of students who are female? | yes
+now give me the student ids of people who play football
+show me the ids of the students that are both female and play football
+Show all student IDs with more than total 10 hours per week on all sports played.
+Show all student IDs with more than a total of 10 hours per week on all sports played please.
+Which of those were just football?
+What's the average hours per week all students played football?
+What's the average hours per week all students played athletics?
+What are all sports names?
+What's the average hours per week all students played Lacrosse?
+What are the student IDs of those students?
+Show ids of students who play video game and play sports.
+Which students play video games?
+How about students who play sports?
+Show ids of students who play video games and sports?
+Show all game names played by Linda Smith
+Which game names were played by Linda Smith?
+What is the Gtype of RGN Stone?
+What is the city code of Student Shiela Jones?
+How many Hours Played do The Vanishing of Eric Calde hasr?
+What are the Student names who have played Gname The Vanishing of Eric Calder.
+What is the total Hours Played of all Students?
+Find the last and first name of students who are playing Football or Lacrosse.
+How many students play football?
+What are their first and last names?
+How many students play Lacrosse?
+What are their first and last names?
+Find the last name and gender of the students who are playing both Call of Destiny and Works of Widenius games.
+Age and sex of Smith Linda? | The age and sex of the student whose last name is Smith and first name is Linda are 18 and F respectively. | What type of game is 'The Vanishing of Eric Calder'?
+Give the hours played by Kim Tracy?
+City code of Jones Shiela? | Do you mean the city code of the student whose first name is Shiela and last name is Jones? | Yes
+Which game type has least number of games?
+How many game types do you have?
+What is the average number of games in all game types?
+Finally, which game type has the least number of games?
+Show all student IDs with the number of sports and total number of games played
+Could you please show me all the student IDs with the number of sports?
+Could you add the total number of games played to that table please?
+How many students are on scholarships?
+What is the most common sports name?
+What is the name of the sport the student with the most hours per week played?
+Show the average, minimum, and maximum age for different majors.
+what is the lname of linda
+what is the age of linda
+what is the age of kim
+what is the sex of age 18
+Which sport has most number of students on scholarship?
+How many SportName on scholarship?
+What are these 7 different sports that have student on scholarship?
+which sport has most number of students on scholarship?

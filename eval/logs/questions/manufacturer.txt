@@ -1,0 +1,24 @@
+Find the market shares and names of furnitures which no any company is producing in our records.
+What is the market share of Chabudai?
+What is its price?
+What is its ID?
+Find the id and number of shops for the company that produces the most expensive furniture.
+what are the companies that produce the most expensive furniture | Do you mean the names of manufacturers that produce the most expensive furniture? | yes, the names of the company that produces the most expensive furniture
+what is the id of this name
+list both the id and number of shops for the company that produces the most expensive furniture in the same table
+Return the name and id of the furniture with the highest market rate.
+Return the name and ID of the furniture with the highest market rate
+rank the furniture according to the number of pieces available | Do you want a list of furniture name sorted by its corresponding number of component? | Yes, Name and corresponding number of components.
+Find the id and number of shops for the company that produces the most expensive furniture.
+Which furniture has the highest price? | The id of the furniture with the highest price is 7. | What is the name of the manufacturer that sells that furniture?
+What is the manufacturer ID for Tomorrow?
+How many shops does Tomorrow have?
+Find the name of the company that produces both furnitures with less than 6 components and furnitures with more than 10 components.
+Hello, can you find me the names of the furniture with less then 6 components?
+Thanks can you find me the names of the furniture with more then 10 components?
+Find the names of furnitures whose prices are lower than the highest price.
+how many furnitures on the table
+which furnitures are highest market rate | The name of the furniture that has the highest market rate is Billiard table | what about the highest price of furniture
+what is highest num of component?
+find the total market rate of the furnitures that have the top 2 market shares.
+how can find total market rate of the furniture

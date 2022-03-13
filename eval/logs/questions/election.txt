@@ -1,0 +1,64 @@
+What are the names of the county that the delegates on "Appropriations" committee belong to?
+Who are the delegates on the Appropriations committee?
+What counties are they from?
+What districts are they from?
+What are the populations of the counties they come from, please?
+What are the names of parties that have both delegates on "Appropriations" committee and
+How many parties in this table?
+Peter Vallone	in which party?
+How many elections in this table?
+Carl McCall in which party?
+What are the names of parties that have both delegates on "Appropriations"?
+Which delegates are from counties with population smaller than 100000?
+Which delegates are from countries with population smaller than 100000?
+Can you give the name of the countries with population smaller than 100000?
+What is the number of counties with population greater than 100000?
+Can you give me the name of the counties with population between 50000 and 100000?
+What are the committee names for the counties with population smaller than 100000?
+What are the committee names for the counties with population between 50000-100000?
+Show the name of the party that has at least two records.
+How many parties are there?
+What are their names?
+Is there any party that has at least two records?
+Yes, can you show me all the attorney generals from democratic party?
+Show the name of the party that has at least two records.
+How many parties have at least two records?
+What are those parties?
+Who are the comptroller of those individuals?
+Which committees have delegates from both democratic party and liberal party?
+Which committees have delegates from the democratic party?
+Which committees have delegates from the liberal party?
+Which committees have delegates from both parties, please?
+Return the maximum and minimum population among all counties.
+What is the average population across the counties?
+Which county's population is lowest?
+What county has the highest population?
+And what is its zip code?
+Show the names of counties that have at least two delegates.
+Could you list the names of all counties in ascending alphabetical order?
+How many delegates do each of these counties have?
+Could you only show the counties that have at least two delegates?
+How many distinct delegates are from counties with population larger than 50000?
+What is the zip code of county id of 2
+how much population of zip code D21?
+what is the county name zip code D02?
+what is election id of district 2?
+how many distinct delegates are from counties with population larger than 50000
+Return the maximum and minimum population among all counties.
+how many zip codes in the county table
+how many county id in the county table
+Return all the committees that have delegates from Democratic party.
+Return all the committees that have delegates from Democratic Party.
+Hmm. Please return all the committees that have delegates from Liberal party.
+Please give me all the delegates's names from Liberal party in Appropriations committee
+Can you also give me all the delegate's name from Liberal party in Economic Matters committee.
+Can you please give the delegates name from Democratic Party in economic matters committee?
+Show the name of the party that has the most delegates.
+Tell me the Lieutenant Governor name for the year 1998 ?
+Who is the Delegate for the election id 1 ?
+Show the name of the party that has the most delegates ?
+Show the name of the county with the biggest population.
+Yes, what's the name of the county with the biggest population?
+And the name with the smallest population?
+What is the population of Baltimore County?
+What is its zip code?

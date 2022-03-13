@@ -1,0 +1,71 @@
+How many students live in HKG or CHI?
+Where does the student live? | Which student are you referring to? | Is there any students living in HKG or CHI?
+How many students have a food allergy?
+can you show me a list of allergies?
+can you show me a list of allergy name?
+what is their allergy types?
+how many students have a food allergy?
+Show all student IDs who have at least two allergies.
+How many students are there?
+How many allergies are there?
+Can you display all student IDs with at least two allergies?
+How many female students have milk or egg allergies?
+Can you list the student ids and their allergies?
+How many students have milk or egg allergies?
+Show the student id of the oldest student.
+What is the most common major?
+What is the name of the oldest student?
+What is that student's Id?
+Find the last name and age of the student who has allergy to both milk and cat.
+Which student have allergy to both milk and cats? | Here are the student ids of the students who have allergies to both milk and cat. | What are their last names?
+And what about their age?
+Which allergy has most number of students affected?
+Most number of students affected by which allergy?
+Which allergy affects student ID 1001
+Which allergy affects student ID 1002
+Find the average age of the students who have allergies with food and animal types.
+Can you list all student IDs that have any kind of allergy?
+Can you filter the list to only show student IDs that have food and animal type allergies?
+Can you display the ages associated with those student IDs?
+What is the average of those 3 ages?
+List the first and last name of the students who do not have any food type allergy.
+Which students have allergies? | Do you want to return their first and last names or other info? | Just names
+How many students don't have any type of allergy?
+What are their full names?
+Which major has most number of students?
+Which major has the highest number of students?
+What is the average age of the students in this major?
+What is the sex of the students in this major?
+Which allergy type has least number of allergies?
+How many allergies does the food allergy type have?
+How many allergies does the animal allergy type have?
+How many allergies does the environmental allergy type have?
+Find the number of male (sex is 'M') students who have some food type allery.
+Could you please find the number of male (sex is 'M') students who have some type of food allergy?
+What are their full names and the names of the food allergies they have?
+How many female students are allergic to cats?
+Find the first name and gender of the student who has allergy to milk but not cat.
+how many female students presented on table
+what is the age of smith | Do you mean the age of the student whose last name is Smith? | exactly
+exactly | I mean which one do you want to know, first name or last name or both? | i want first name
+Find the first name and major of the students who are not allegry to soy.
+How many different types of allergies are there?
+What allergy is most prevalent among students?
+How many male students have a tree pollen allergy?
+How many students have a soy allergy?
+How many students don't have a soy allergy?
+Can you list them for me with their names and majors? | First name? | Yes please. First name and major.
+Which allergy has most number of students affected?
+Which allergy has the most number of students affected?
+How many students has tree pollen affected?
+Which allergy has the least number of students affected?
+Which advisor has most number of students?
+I want to know advisor with the most number of students
+What about the advisor with the least number of students
+Could you tell me the names of both advisors with the most and the least number of students?
+What are the allergies and their types that the student with first name Lisa has? And order the result by name of allergies.
+Can you give me the allergies that the student with the first name Lisa has
+Are there any other names that have allergies | Do you want the first name or the last name of students other than Lisa who have allergies? | Can i have the list of foods that Lisa is allergic to
+Find the different first names and cities of the students who have allergy to milk or cat.
+Can you get me the first names of students that have a milk allergy?
+Can you list the cities of these students? | Do you want both the cities and the first names of the students? | Yes. Can you please provide both simultaneously?

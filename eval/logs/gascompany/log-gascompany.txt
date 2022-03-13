@@ -1,0 +1,38 @@
+query MyQuery { companies(key: "Main_Industry", val: "Banking") { Headquarters, Main_Industry } }
+query MyQuery { companies(key: "Main_Industry", val: "Banking") { ID, Name } }
+query MyQuery { companies { Headquarters } }
+query MyQuery { companies(key: "Main_Industry", val: "Oil and gas") { Headquarters, Main_Industry } }
+query MyQuery { companies(key: "Main_Industry", val: "Banking") { Headquarters } }
+query MyQuery { companies(key: "Main_Industry", val: "Oil and gas") { Headquarters } }
+query MyQuery { companies(key: "Main_Industry", val: "Oil and gas") { Headquarters } }
+query MyQuery { count(type: "stations", field: "Location") }
+query MyQuery { count(type: "stations", field: "Location") }
+query MyQuery { stations { Location } }
+query MyQuery { stations { Open_Year } }
+query MyQuery { companies(key: "Main_Industry", val: "Banking") { Headquarters, Main_Industry } }
+Error: no types found.
+Error: no types found.
+query MyQuery { companies { Headquarters } }
+query MyQuery { companies(key: "Rank", val: "1") { Stations, Market_Value } }
+Error: no types found.
+query MyQuery { max(type: "companies", field: "Profits") }
+query MyQuery { companies(key: "Rank", val: "1") { Sales, Rank } }
+query MyQuery { companies { Main_Industry, Market_Value } }
+query MyQuery { companies { Profits } }
+query MyQuery { companies(key: "Rank", val: "1") { Name, Market_Value } }
+query MyQuery { companies(key: "Name", val: "General Electric") { Headquarters } }
+query MyQuery { min(type: "stations", field: "Company") }
+query MyQuery { companies(key: "Rank", val: "1") { Name, ID } }
+query MyQuery { min(type: "stations", field: "Company") }
+query MyQuery { min(type: "stations", field: "Company") }
+query MyQuery { companies(key: "Main_Industry", val: "Banking") { Rank, Name, Market_Value, Main_Industry, Sales, Profits } }
+query MyQuery { max(type: "companies", field: "Market_Value") }
+query MyQuery { companies(key: "Name", val: "BP") { Market_Value } }
+query MyQuery { companies(key: "Rank", val: "3") { Name, Stations, Assets } }
+query MyQuery { stations(key: "Location", val: "Newport Rd") { Representative_Name } }
+query MyQuery { stations { Location, Open_Year } }
+query MyQuery { stations(key: "Rank_of_Year", val: "2") { Open_Year } }
+query MyQuery { stations(key: "Rank_of_Year", val: "2") { Manager_Name, Open_Year } }
+Error: no types found.
+Error: no types found.
+Error: no types found.

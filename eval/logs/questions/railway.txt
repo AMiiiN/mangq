@@ -1,0 +1,52 @@
+Show the countries that have managers of age above 50 or below 46.
+Hi, can you please tell me which country has a manager of age above 50?
+what about the countries with manager of age below 46?
+can you please tell me how many managers Scotland has?
+what about other countries?
+how many level 5 managers does United States have?
+and can you please tell me their names?
+Show the countries that have managers of age above 50 or below 46.
+Show the countries that have managers of age above 50 or below 46?
+What is the least aged Manager's name on the list?
+How many managers are from United States on the list?
+List the object number of railways that do not have any trains.
+Which railways do not have trains? | Did you mean the object number of railways that do not have any train? | Yes
+and ones that do?
+What are their names?
+and the names of the railways with no trains?
+when were they built?
+Show id and location of railways that are associated with more than one train.
+how many railway there
+what is the train number of sewagram exp
+what is the location of mr
+What is the name of the oldest manager?
+Can you tell me the name of the oldest manager please?
+What is the name of the manager with the earliest working year?
+Can you list the names of all managers with the highest level?
+Show the most common builder of railways.
+Hi, Can you tell me the most common builder of railways?
+Can you tell me the last railways this builder has build?
+In what year was GWRSn build?
+List the object number of railways that do not have any trains.
+which object railways that do not have any trains? | Do you mean the object number? | yes, I apologize. Which object number railways that do not have any trains?
+which one is located in New York. | Do you mean York? | sorry, yes.
+which object numbers do have trains?
+who is the builder of 
+Object Number 1975-7006?
+What is the name of the oldest manager?
+Can you find the name and age of the oldest manager?
+What year did Todd Hamilton start working?
+Show the countries that have both managers of age above 50 and managers of age below 46.
+Please show the countries that have both managers of age above 50, and managers of age below 46
+Please show me the names of all those managers
+Please show me the age of the youngest and oldest managers
+Show the locations that have more than one railways.
+Can you list the names of the locations that have two or more railways?
+When were those built?
+What is the location of the most recently built railway?
+Who is the builder of the railway built earliest?
+When was that railway built?
+Show the id and builder of the railway that are associated with the most trains.
+Which builder has the least trains?
+How about the builder with the most trains?
+What is his id?

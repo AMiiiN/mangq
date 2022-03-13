@@ -1,0 +1,35 @@
+What are the distinct hometowns of gymnasts with total points more than 57.5?
+Hello there! Can you list all of the hometowns listed in this database?
+Thank you for that information!  Can you filter that list to show just the hometowns for gymnasts whose total points are more than 57.5?
+Thank you! Can you show all of the names of the gymnasts for those hometowns?
+Show the hometowns shared by people older than 23 and younger than 20.
+Hello!  Can you show me a list of all of the hometowns?
+Thank you!  Can you filter this list ot show only the hometowns that have both people older than 23 years of age and people younger than 20 years of age?
+Excellent!  Can you tell me how many people in total have Santo Domingo as their Hometown?
+List the names of gymnasts in ascending order by their heights.
+Who is the tallest gymnast?
+How tall is Nadia Caba Rodríguez?
+Great, can you list the names of the gymnasts in ascending order by their heights?
+What is the most common hometown of gymnasts?
+Hello!  Can you please list all of the gymnast IDs and their associated hometowns?
+Awesome!  Which of these hometowns is the most common?
+Awesome!  Can you show me a list of all people names that are associated with Santo Domingo?
+What are the hometowns of gymnasts and the corresponding number of gymnasts?
+what are the hometowns of gymnasts
+the corresponding number of gymnasts? | Can you clarity what do you mean by the corresponding number? | how many gymnasts are in table?
+details about paul hamm | Can you be more specific for what details do you need for Paul Hamm? | i want paul hamm's age
+What is the age of the tallest person?
+how many people are there
+how many are under age 21
+how many are from same hometown | Santo Domingo is the only hometown where more than 1 person is from. There are 5 people from the hometown San Domingo. | what is the name of people ID 2
+Show the ages of gymnasts in descending order of total points.
+Show the ages of gymnasts in descending order of total points.
+Show their names.
+What is the height of Paul Hamm?
+What is his hometown?
+How many total points does he have?
+How many rings points does he have?
+What is the age of the tallest person?
+What is the tallest height?
+What is that person's name?
+How old is he?

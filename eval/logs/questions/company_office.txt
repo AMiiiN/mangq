@@ -1,0 +1,49 @@
+Show the name of the building that has the most company offices.
+Which company has the most buildings? | Do you want to the name of the company? | Yes and the company ID.
+What is the building ID that has the most company offices?
+What is the name of building with ID 3?
+Show the headquarters shared by more than two companies.
+Which company has its headquarter in the US? | Did you mean to ask for the companies with headquarters in USA? | yes.
+What is the industry of the company named General Electric?
+How much profit did it make ?
+Which company has the highest amount of assets?
+how much is it worth? | Did you mean to ask for the market value in billions for BNP Paribas? | yes
+Find the stories of the building with the largest height.
+Which building is the highest?
+How tall is the Torre Reforma?
+How many stories does the highest building have?
+What are the maximum and minimum sales of the companies whose industries are not "Banking".
+How many companies have an industry of banking?
+How many don't have a banking industry?
+What are the total sales of those companies?
+What is the maximum sales of those companies?
+What is the minimum sales?
+Find the stories of the building with the largest height.
+What is the name of the building with the largest height?
+How many stories does that building have?
+What is the height of that building?
+What city is that building in?
+How many stories does the building with the smallest height have?
+Show the names of the buildings that have more than one company offices.
+Show the names of the buildings that have more than one company offices.
+Can you tell me which companies are located at the Torre KOI building? | What attributes of these companies do you want to know? | The names of the companies that are present in that building.
+What other buildings is JPMorgan Chase also located in?
+Does Torre Mitkah have an HSBC located in it?
+What is the name of company with the company id 4?
+ExxonMobil is located in Punto Chapultepec, correct?
+Which buildings have a General Electric then?
+What other companies are located in Corporativo BBVA Bancomer?
+Show the name of the building that has the most company offices.
+Count the number of building IDs
+add a column for company id
+list the number of unique building ids for each company id
+add a column for company name
+Please show the names of the buildings whose status is "on-hold", in ascending order of stories.
+Show the names of the buildings
+Now show the names of building whose status is on-hold
+names of buildings whose status is on-hold in ascending order | In what ascending order? | In ascending order of stories
+What are the maximum and minimum sales of the companies whose industries are not "Banking".
+what is the highest profits of companies
+what is the market value of JPMorgan Chase
+what is name of headquarters on General Electric
+which company is highest assets value

@@ -1,0 +1,192 @@
+List the names of aircrafts and that did not win any match.
+Which pilot won the most matches?
+Which aircraft won the most matches?
+what is the name and age of the youngest winning pilot?
+In which country  Swan River , Perth located ?
+How old is Mr. Cristian Halvorson II?
+In which country Mina' Zayid , Abu Dhabi located ?
+what is the name and age of the oldest winning pilot
+where is Flamengo Beach , Rio de Janeiro situated
+List the names of aircrafts and that won matches at least twice.
+What are the names of the aircraft?
+Tell me the Location and Country of the Round 1 ?
+What is the pilot id of Prof. Zackery Collins ?
+What are the total number of Domestic Passengers of airports that contain the word "London".
+Show all information on the airport that has the largest number of international passengers.
+Please show the names of aircrafts associated with airport with name "London Gatwick"
+please show the description of the Aircraft Robinson R-22
+Which airport had the most domestic passengers?
+Number of international passengers per airport?
+Ok. Can you show all the information for London Heathrow airport?
+What are the maximum number of transit passengers of all airports?
+What are the minimum number of transit passengers of all airports?
+What is the average of all domestic passengers
+What airport name has the highest amount of international passengers?
+find the name and age of the pilot who has won the most number of times among the pilots who are younger than 30.
+Show the names of aircrafts that are associated with both an airport named \"London Heathrow\" and an airport named "London Gatwick"
+Yes, I just needs the name of aircrafts in airports
+Which address do not have any member with the black membership card?
+what is the average level of membership?
+How many membership cards are black?
+what's the average time of purchase for white membership card?
+What are their names?
+What is the membership card held by both members living in Hartford and ones living in Waterbury address?
+how many membership cards?
+what is age of Ashby, Lazale
+how many time of purchase in ashby, lazale
+Level of membership Breton, Robert
+Which address has both members younger than 30 and members older than 40?
+What is the membership card of Breton, Robert?
+What is the age of Breton, Robert?
+What are the id and address of the shops which have a happy hour in May?
+Which shop has the  most  staff?
+Which shop has a happy hour in may?
+Can you also show me their addresses ?
+Which months have more than 2 happy hours?
+whats he average number of staffs in charge
+how many months in total
+which months have more than 2 happy hours
+What are the average score and average staff number of all shops?
+How many shops have a score of above 37?
+Which shop has the lowest number of staff?
+What is the average number of workers for all the shops?
+Find the ids and names of members who are under age 30 or with black membership card.
+Find the ids and names of members who are under age 30
+Please find the ids and names of members with black membership card.
+Hmmm. Can you also show me the ids and names of members who are over age 30?
+How many of these members have a black membership card?
+Can you please show me their names?
+Which month has the most happy hours?
+I'd like to know how many staff are in charge in June?
+How many places offer happy hour?
+Which of those 5 distinct shops have the most happy hours?
+Can you tell me which shop ID offers the least happy hours?
+Which address has both members younger than 30 and members older than 40?
+Which address has members younger than 30?
+Which address has members older than 40?
+Which address has members younger than 30 and older than 40?
+What are the average score and average staff number of all shops?
+Which shop has the highest score?
+How many shops have more staff than shop 10?
+And are there any other shops on the same street as shop 10?
+What years did those open?
+Show the name of the building that has the most company offices.
+Which company has the most buildings?
+What is the building ID that has the most company offices?
+What is the name of building with ID 3?
+Show the headquarters shared by more than two companies.
+Which company has its headquarter in the USA?
+What is the industry of the company named General Electric?
+How much profit did it make ?
+Which company has the highest amount of assets?
+how much is its market value in billions for BNP Paribas?
+Find the stories of the building with the largest height.
+Which building is the highest?
+How tall is the Torre Reforma?
+How many stories does the highest building have?
+What are the maximum and minimum sales of the companies whose industries are not "Banking".
+How many companies have an industry of banking?
+How many don't have a banking industry?
+What are the total sales of those companies?
+What is the maximum sales of those companies?
+What is the minimum sales?
+Find the stories of the building with the largest height.
+What is the name of the building with the largest height?
+How many stories does that building have?
+What is the height of that building?
+What city is that building in?
+How many stories does the building with the smallest height have?
+Show the names of the buildings that have more than one company offices.
+Show the names of the buildings that have more than one company offices.
+Can you tell me which companies are located at the Torre KOI building?
+What other buildings is JPMorgan Chase also located in?
+Does Torre Mitkah have an HSBC located in it?
+What is the name of company with the company id 4?
+ExxonMobil is located in Punto Chapultepec, correct?
+Which buildings have a General Electric then?
+What other companies are located in Corporativo BBVA Bancomer?
+Show the name of the building that has the most company offices.
+Count the number of building IDs
+add a column for company id
+list the number of unique building ids for each company id
+add a column for company name
+Please show the names of the buildings whose status is "on-hold", in ascending order of stories.
+Show the names of the buildings
+Now show the names of building whose status is on-hold
+names of buildings whose status is on-hold in ascending order of stories
+What are the maximum and minimum sales of the companies whose industries are not "Banking".
+what is the highest profits of companies
+what is the market value of JPMorgan Chase
+what is name of headquarters on General Electric
+which company is highest assets value
+Show headquarters with at least two companies in the banking industry.
+What companies are in the banking industry?
+Where are those companies' headquarters located?
+Show all headquarters with both a company in banking industry and a company in Oil and gas.
+Hi can you show me all the headquarters of a company in backing industry? | Do you mean banking, not backing? | Sorry, yes banking!
+Thank you! Can you now tell me the all the headquarters of a company in Oil and gas?
+Great, what about all the headquarters with both a company in oil and gas and a company in banking?
+Show all locations and the number of gas stations in each location ordered by the count.
+Show all locations and the number of gas stations in each location ordered by the count, please?
+What is the name of the location that has more than one gas station?
+What year was more than one gas station opened in?
+Show all headquarters without a company in banking industry.
+what is the average of market value?
+what is the average of assets billion?
+what is companies headquarters?
+Show all locations where a gas station for company with market value greater than 100 is located.
+What is the average market value
+Which company is the most profitable?
+What is the average sales of the companies ranked 1, 2 and 3?
+List the main industry with highest total market value and its number of companies.
+What is the profits billion of Company ExonMobil?
+What is the name of the company which has market value 213.7?
+Where is the headquarters  of the company general electric?
+Show company name and main industry without a gas station.
+Show the name of the company with company id 1?
+Show all company name and main industry with gas station?
+Show all company name and main industry without a gas station?
+find the rank, company names, market values of the companies in the banking industry order by their sales and profits in billion.
+Which company has the biggest market value in billion?
+what is BP's market value?
+find the location and Representative name of the gas stations owned by the companies with top 3 Asset amounts.
+What is the representative name of Newport Rd?
+Which gas station location is the oldest based on its open year.
+How many gas stations opened after 2000?
+What's the name of the manager that opened the most gas stations after 2000?
+What are the locations of those?
+What are the vice manager names of those locations?
+What years did those open?
+Show the school name and type for schools without a school bus.
+What are the school names of the schools without school buses?
+Can you please get me the types of those schools?
+what are schools in Hawaii have school buses?
+What about in Indonesia?
+How many private schools are in Hawaii?
+find the name of driver who is driving the school bus with the longest working history.
+Can you list the driver ids and whether they drive full time or not?
+Hmm, I also want to know their years working.
+Can you tell me the name of the driver who is driving the school bus with the longest working history?
+How many drivers are from Hartford city or younger than 40?
+Can you show me the number of drivers who are from Hartford City?
+Oh, I want the names of the drivers.
+Hmm, please show me names of the drivers who are younger than 40.
+Can you count the number of drivers who are from Hartford City or younger than 40?
+Show the home city with the most number of drivers.
+How many drivers are there?
+What is the average age of your drivers?
+Show home city where at least two drivers older than 40 are from.
+how many driver are presented on the table
+list out the driver names on the table
+what is the age of Matthew Ritter
+what is the home city of Dan Carter
+Show the names of the drivers without a school bus.
+what are the names of all drivers?
+also give me their driver ids
+what are the number of years for working for each driver and their names?
+Show the school name and driver name for all school buses.
+Hello!  Can you show me all school names and bus driver names for each of the school buses in this database?
+Show the party with drivers from Hartford and drivers older than 40.
+How many of the drivers are over 40?
+How many of these drivers are also from Hartford?
+What is the party of these 4 drivers?

@@ -1,0 +1,27 @@
+Please show the most common publication date.
+What are the publication dates in the list?
+Can you sort the list by publication date from most common to least common?
+What is the most common publication date?
+Show publishers that have more than one publication.
+Show publishers that have less than one publication?
+Show all the publishers?
+What is the highest price that a publisher earns?
+What is the lowest price that a publisher earns?
+Show the titles of books in descending order of publication price.
+I need a list of the titles of books.
+Can you give me the price of those books?
+can you list those in ascending order?
+Can you list the prices along with the books?
+Now can you list the titles of the books and the prices but in descending order?
+Show writers who have published a book with price more than 4000000.
+what's the highest price of book published on this list?
+who's the writer of The Black Lamb?
+what's the price for Wiley's publication? | Which of Wiley's publications do you want to know the price for? | the one of june 2006
+who's the writer of Bloody Mary? | Did you mean Bloody Mary or Bloody Mary : Lady Liberty? | Bloody Mary
+List the publication dates of publications with 3 lowest prices.
+What are the prices of the 3 lowest publications?
+And who are the publishers of the 3 lowest priced publications?
+What are the publication dates of the 3 lowest priced publications?
+Show the publishers that have publications with price higher than 10000000 and publications with price lower than 5000000.
+how many publishers are there?
+Yes please | Which one? Do you mean the publishers of the result table that also have publications with prices lower than 5000000 or any publisher that has a publication with a price lower than 5000000? | in  the table that you just created, add the names of the publishers with price lower than 5000000, and include their price  in the table too.

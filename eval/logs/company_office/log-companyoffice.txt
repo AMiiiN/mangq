@@ -1,0 +1,49 @@
+query MyQuery { buildings { Name, Companies } }
+query MyQuery { max(type: "buildings", field: "Companies") }
+query MyQuery { buildings { ID, Companies } }
+query MyQuery { buildings { Name, ID } }
+query MyQuery { companies { Headquarters } }
+query MyQuery { companies(key: "Headquarters", val: "USA") { Headquarters } }
+query MyQuery { companies(key: "Name", val: "General Electric") { Industry, Name } }
+Error: no types found.
+query MyQuery { max(type: "companies", field: "Assets") }
+query MyQuery { companies(key: "Name", val: "BNP Paribas") { Market_Value } }
+query MyQuery { buildings { Stories, Height } }
+query MyQuery { buildings { ID, Name } }
+Error: no fields found.
+query MyQuery { buildings { Stories, Height } }
+query MyQuery { companies(key: "Industry", val: "Banking") { Sales, Industry } }
+query MyQuery { companies(key: "Industry", val: "Banking") { Industry } }
+query MyQuery { companies(key: "Industry", val: "Banking") { Industry } }
+query MyQuery { companies(key: "Name", val: "Total") { Sales } }
+query MyQuery { max(type: "companies", field: "Sales") }
+Error: no types found.
+query MyQuery { buildings { Stories, Height } }
+query MyQuery { buildings { Name, Height } }
+query MyQuery { buildings { Stories } }
+query MyQuery { buildings { Height } }
+query MyQuery { buildings { City } }
+query MyQuery { buildings { Stories, Height } }
+query MyQuery { buildings { Name, Companies } }
+query MyQuery { buildings { Name, Companies } }
+query MyQuery { buildings(key: "Name", val: "Torre KOI") { Companies } }
+query MyQuery { companies(key: "Name", val: "JPMorgan Chase") { Buildings } }
+Error: no fields found.
+query MyQuery { companies { Name, ID } }
+Error: no fields found.
+query MyQuery { companies(key: "Name", val: "General Electric") { Buildings } }
+query MyQuery { buildings(key: "Name", val: "Corporativo BBVA Bancomer") { Companies } }
+query MyQuery { buildings { Name, Companies } }
+query MyQuery { count(type: "buildings", field: "ID") }
+query MyQuery { companies { ID } }
+query MyQuery { buildings { ID, Companies } }
+query MyQuery { companies { Name } }
+query MyQuery { buildings(key: "Status", val: "on-hold") { Name, Status, Stories } }
+query MyQuery { buildings { Name } }
+query MyQuery { buildings(key: "Status", val: "on-hold") { Name, Status } }
+query MyQuery { buildings(key: "Status", val: "on-hold") { Name, Status, Stories } }
+query MyQuery { companies(key: "Industry", val: "Banking") { Sales, Industry } }
+query MyQuery { max(type: "companies", field: "Profits") }
+query MyQuery { companies(key: "Name", val: "JPMorgan Chase") { Market_Value } }
+query MyQuery { companies(key: "Name", val: "General Electric") { Name, Headquarters } }
+query MyQuery { max(type: "companies", field: "Assets") }

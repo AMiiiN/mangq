@@ -1,0 +1,33 @@
+Show names and seatings, ordered by seating for all tracks opened after 2000.
+Can you show me all tracks which were opened after 2000? | Do you mean the names of all the tracks which were opened after 2000? | Yes.
+Hmm, I want to know the seatings for all the tracks opened after 2000.
+Please list the names and seatings for all the tracks opened after 2000, ordered by seating.
+List the race class with at least two races.
+can you show me names of races?
+what is the Mexico City 250's date?
+can you show me class of race?
+What is the name, location and seating for the most recently opened track?
+Which was the most recently opened track?
+What is the seating capacity for Chicagoland Speedway?
+What is the location of the Chicagoland Speedway tract?
+What is the race class with most number of races.
+give me the race class with the most number of races
+on what date is it?
+list the race id
+Show all track names that have had no races.
+What are the names of those tracks?
+Can you show me the location and year opened for these tracks?
+Show the name of track with most number of races.
+which track has the highest number of race?
+where is Auto Club Speedway located?
+where is Chicagoland Speedway located?
+how many seating does Chicagoland Speedway have?
+Show names and seatings, ordered by seating for all tracks opened after 2000.
+Which tracks were opened after year 2000? | Here are the ids for tracks that were opened after year 2000, including 2 and 6. | What are their names?
+And what are their seating capacity?
+Yes, what are their locations?
+Show the name of track with most number of races.
+count the number of records for each track id | do you mean count the number of race ids for each track id? | How about this--list all track Ids
+add a column for track name
+add a column showing the total number of rows in the table race that contain each of the Track_IDs
+Filter the list to show only those rows with a number in the count column that is greater than 1

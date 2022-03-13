@@ -1,0 +1,44 @@
+Show headquarters with at least two companies in the banking industry.
+Please show me the headquarters with at least two companies in the banking industry?
+What companies are in the banking industry?
+Where are those companies' headquarters located?
+Show all headquarters with both a company in banking industry and a company in Oil and gas.
+Hi can you show me all the headquarters of a company in backing industry? | Do you mean banking, not backing? | Sorry, yes banking!
+Thank you! Can you now tell me the all the headquarters of a company in Oil and gas?
+Great, what about all the headquarters with both a company in oil and gas and a company in banking?
+Show all locations and the number of gas stations in each location ordered by the count.
+Show all locations and the number of gas stations in each location ordered by the count, please?
+What is the name of the location that has more than one gas station?
+What year was more than one gas station opened in?
+Show all headquarters without a company in banking industry.
+what is the average of market value?
+what is the average of assets billion?
+what is companies headquarters?
+show all headquarters without a company in banking industry.
+Show all locations where a gas station for company with market value greater than 100 is located.
+What is the average market value
+Which location is most profitable? | What do you mean by location? We have different companies in different countries. | Which company is the most profitable?
+What is the average sales of the companies ranked 1, 2 and 3?
+List the main industry with highest total market value and its number of companies.
+What is the profits billion of Company ExonMobil?
+What is the name of the company which has market value 213.7?
+Where is the headquarters  of the company general electric?
+Show company name and main industry without a gas station.
+Show the name of the company with company id 1?
+Show all company name and main industry with gas station?
+Show all company name and main industry without a gas station?
+find the rank, company names, market values of the companies in the banking industry order by their sales and profits in billion.
+find the rank, company names, market values of the companies in the banking industry order by their sales and profits in billion.
+Which company has the biggest market value in billion?
+what is BP's market value?
+find the location and Representative name of the gas stations owned by the companies with top 3 Asset amounts.
+find the location and Representative name of the gas stations owned by the companies with top 3 Asset amounts.
+What is the representative name of Newport Rd?
+Find the location and Representative name of the gas stations owned by the companies with top 3 Asset amounts.
+What gas station is the oldest one based on open year | Which kind of information about this gas station do you want? | Which gas station location is the oldest based on its open year.
+Show the manager name with most number of gas stations opened after 2000.
+How many gas stations opened after 2000?
+What's the name of the manager that opened the most gas stations after 2000?
+What are the locations of those?
+What are the vice manager names of those locations?
+What years did those open?

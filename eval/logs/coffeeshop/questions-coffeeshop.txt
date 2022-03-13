@@ -1,0 +1,45 @@
+Which address do not have any member with the black membership card?
+what is the average level of membership?
+How many membership cards are black?
+what's the average time of purchase for white membership card?
+What are their names?
+What is the membership card held by both members living in Hartford and ones living in Waterbury address?
+how many membership cards?
+what is age of Ashby, Lazale
+how many time of purchase in ashby, lazale
+Level of membership Breton, Robert
+Which address has both members younger than 30 and members older than 40?
+What is the membership card of Breton, Robert?
+What is the age of Breton, Robert?
+What are the id and address of the shops which have a happy hour in May?
+Which shop has the  most  staff?
+Which shop has a happy hour in may?
+Can you also show me their addresses ?
+Which months have more than 2 happy hours?
+whats he average number of staffs in charge
+how many months in total
+which months have more than 2 happy hours
+What are the average score and average staff number of all shops?
+How many shops have a score of above 37?
+Which shop has the lowest number of staff?
+What is the average number of workers for all the shops?
+Find the ids and names of members who are under age 30 or with black membership card.
+Find the ids and names of members who are under age 30
+Please find the ids and names of members with black membership card.
+Hmmm. Can you also show me the ids and names of members who are over age 30?
+How many of these members have a black membership card?
+Can you please show me their names?
+Which month has the most happy hours?
+I'd like to know how many staff are in charge in June?
+How many places offer happy hour?
+Which of those 5 distinct shops have the most happy hours?
+Can you tell me which shop ID offers the least happy hours?
+Which address has both members younger than 30 and members older than 40?
+Which address has members younger than 30?
+Which address has members older than 40?
+Which address has members younger than 30 and older than 40?
+What are the average score and average staff number of all shops?
+Which shop has the highest score?
+How many shops have more staff than shop 10?
+And are there any other shops on the same street as shop 10?
+What years did those open?

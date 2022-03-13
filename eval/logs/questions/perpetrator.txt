@@ -1,0 +1,41 @@
+What is the country that has the most perpetrators?
+tell me the total number of injured in both china and japan
+what is the rate of kill in south korea
+what is the location of ID 3 | Do you mean the perpetrator ID? | yes the prepetrator ID
+What is the location of the perpetrator with the largest kills.
+How many perpetrators are there?
+What is the location for each perpetrator?
+Can you tell me the location of the perpetrator with the largest kills?
+List the names of people that are not perpetrators.
+what is the name of people that are not perpetrators
+what is the weight of John Danks
+what is the height of  John Danks
+What is the total kills of the perpetrators with height more than 1.84.
+I want to know how many perpetrators are taller than 1.84 | So do you mean the kills of perpetrators with height more than 1.84? | Yes, that's exactly what I mean
+How many perpetrators does that include?
+When did the earliest killing take place?
+Can you tell me how many people were injured for the most recent date?
+Which country had the most killings and injuries? | Do you mean killings plus injuries together? | Yes, that is what I mean.
+What are the names of perpetrators whose country is not "China"?
+Hi - can you please list the names of perpetrators in all countries except for China?
+Great - I forgot to ask, can you please show which countries each of the listed perpetrators are associated with?
+Fantastic - what was the total number of perpetrators in China?
+Show the countries that have both perpetrators with injures more than 50 and perpetrators with injures smaller than 20.
+How many countries are there on the list?
+Can you list the name of the countries that have perpetrators with injures more than 50?
+Can you also include the name of the contries that have perpetrators with injures smaller than 20?
+What are the names of perpetrators in country "China" or "Japan"?
+What are the names of the perpetrators in the country China?
+What are the names of the perpetrators in the country Japan?
+What are the heights of all the perpetrators in Japan and China?
+What are the weights of all the perpetrators from South Korea?
+Show the date of the tallest perpetrator.
+show the date of the tallest perpetrator.
+show me the location of the tallest perpetrator.
+what country is Kaio from?
+how many people were killed in Japan?
+how many got injured in japan?
+What is the name of the perpetrator with the biggest weight.
+HOW MANY PEOPLE HAS KILLED AT SOUTH KOREA ?
+WHAT IS THE NAME OF THE PERPETRATOR WITH THE BIGGEST WEIGHT ?
+WHERE IS THE LOCATION OF EVENTS IN JAPAN ?

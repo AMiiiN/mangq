@@ -1,0 +1,21 @@
+List the official names of cities that have not held any competition.
+What is the population of city Id 2?
+What is the census ranking of Perth-Andover?
+What is the name of hosts of Carnival M is back?
+Please show the themes of competitions with host cities having populations larger than 1000.
+Which cities have populations larger than 1000? List their ids.
+What is the theme for these cities? | The themes of competitions with host cities having populations larger than 1000 are Carnival M is back!, Codehunters, and MTV Asia Aid | Which cities have populations less than 1000? List their ids.
+Find the official names of cities with population bigger than 1500 or smaller than 500.
+what is the status of Perth-Andover | The status of the city with official name Perth-Andover is Village. | what is the name of the city that is top in area km 2.
+What are the maximum and minimum number of cows across all farms.
+Out of all the farms, what are the maximum and minimum numbers of cows?
+And for horses? | Do you mean total horses or working horses? | total horses
+How many more oxen are there than cattle on farm id 1
+Show the official names of the cities that have hosted more than one competition.
+Show me the official names of the cities that have hosted more than one competition?
+Show me the official names of the cities that have hosted only one competition?
+What were the themes of each of those competitions?
+What is the census rating of the city with the official name "Plaster Rock"?
+What is the census rating of the city that hosted the competition with the theme "Carnival M is back!"?
+Show the status of the city that has hosted the greatest number of competitions.
+Sure!  On my end I'm seeing that the first table is labeled "City", but if these are towns and villages then I'd like to see what you are suggesting!  Thanks!

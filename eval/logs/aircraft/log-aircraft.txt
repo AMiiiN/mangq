@@ -1,0 +1,27 @@
+query MyQuery { Match { Winning_Pilot, Winning_Aircraft } }
+query MyQuery { Pilot { ID, Name } }
+query MyQuery { max(type: "Aircraft", field: "ID") }
+query MyQuery { Pilot { Name, Age } }
+query MyQuery { Match(key: "Location", val: "Swan River , Perth") { Country, Location } }
+query MyQuery { Pilot(key: "Name", val: "Mr. Cristian Halvorson II") { Age } }
+query MyQuery { Match(key: "Location", val: "Mina' Zayid , Abu Dhabi") { Country, Location } }
+query MyQuery { Pilot { Name, Age } }
+query MyQuery { Match(key: "Location", val: "Flamengo Beach , Rio de Janeiro") { Location, Country } }
+query MyQuery { Aircraft { Name_Model } }
+query MyQuery { Aircraft { Name_Model } }
+query MyQuery { Match(key: "Round", val: "1") { Location, Country, Round } }
+query MyQuery { Pilot(key: "Name", val: "Prof. Zackery Collins") { ID } }
+query MyQuery { Airport { Total_Ps, Domestic_Ps } }
+query MyQuery { Airport { ID, Name, Total_Ps, Change_2007, International_Ps, Domestic_Ps, Transit_Ps, Aircraft_Movements, Freight_Metric_Tonnes } }
+query MyQuery { Airport(key: "Name", val: "London Gatwick") { Name, Aircraft_Movements } }
+query MyQuery { Aircraft(key: "Name_Model", val: "Robinson R-22") { Description } }
+query MyQuery { max(type: "Airport", field: "Domestic_Ps") }
+query MyQuery { Airport { International_Ps } }
+query MyQuery { Airport(key: "Name", val: "London Heathrow") { ID, Name, Total_Ps, Change_2007, International_Ps, Domestic_Ps, Transit_Ps, Aircraft_Movements, Freight_Metric_Tonnes } }
+query MyQuery { max(type: "Airport", field: "Transit_Ps") }
+query MyQuery { min(type: "Airport", field: "Transit_Ps") }
+Error: no types found.
+query MyQuery { Airport { Name, International_Ps } }
+query MyQuery { Pilot(key: "Age", val: "30") { Name, Age } }
+query MyQuery { Airport(key: "Name", val: "London Heathrow") { Name, Aircraft_Movements } }
+query MyQuery { Aircraft { ID, Name_Model } }

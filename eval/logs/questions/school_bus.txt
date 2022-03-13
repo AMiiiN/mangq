@@ -1,0 +1,33 @@
+Show the school name and type for schools without a school bus.
+What are the school names of the schools without school buses?
+Can you please get me the types of those schools?
+what are schools in Hawaii have school buses?
+What about in Indonesia?
+How many private schools are in Hawaii?
+find the name of driver who is driving the school bus with the longest working history.
+Can you list the driver ids and whether they drive full time or not?
+Hmm, I also want to know their years working.
+Can you tell me the name of the driver who is driving the school bus with the longest working history?
+How many drivers are from Hartford city or younger than 40?
+Can you show me the number of drivers who are from Hartford City?
+Oh, I want the names of the drivers.
+Hmm, please show me names of the drivers who are younger than 40.
+Can you count the number of drivers who are from Hartford City or younger than 40?
+Show the home city with the most number of drivers.
+How many drivers are there?
+What is the average age of your drivers?
+Show home city where at least two drivers older than 40 are from.
+how many driver are presented on the table
+list out the driver names on the table
+what is the age of Matthew Ritter
+what is the home city of Dan Carter
+Show the names of the drivers without a school bus.
+what are the names of all drivers?
+also give me their driver ids
+what are the number of years for working for each driver and their names?
+Show the school name and driver name for all school buses.
+Hello!  Can you show me all school names and bus driver names for each of the school buses in this database?
+Show the party with drivers from Hartford and drivers older than 40.
+How many of the drivers are over 40?
+How many of these drivers are also from Hartford?
+What is the party of these 4 drivers?

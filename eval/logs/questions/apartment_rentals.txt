@@ -1,0 +1,142 @@
+Show each gender code and the corresponding count of guests sorted by the count in descending order.
+Please list each gender code with its corresponding amount of guests and sort it in descending order by that count?
+What are the full names of all the people with unknown genders?
+What were their birth dates?
+What are the birth dates of all guests with the letter M in their first or last name?
+Show the first names and last names of all the guests that have apartment bookings with status code "Confirmed".
+What are the first names of all guest with apartment booking status "Confirmed" ?
+And how about their last names?
+And what about guests with "Provisional" status?
+Show the facility codes of apartments with more than 4 bedrooms.
+Can you list all of the apartments with more than 4 bedrooms? | do you mean the apartment ids of apartments with more than 4 bedrooms? | Yes, please!  I believe that's the only discrete identifier of the apartments (at least that I can see)...
+Thank you!  Can you list the facility codes for each of those apartment IDs (3 4 6 11 12 13 15)?
+Can you please list the 'building id', 'apartment type code' and 'apartment number' for all apartment IDs with more than 4 bedrooms?
+How many apartments do not have any facility?
+How many apartments are there?
+How many different facilities are there?
+Can you list the different facilities?
+How many apartments have facilities?
+How many apartments have no facilities?
+Show the addresses of the buildings that have apartments with more than 2 bathrooms.
+Show me the addresses of the buildings.
+Any of those have apartments with more than 1 bedrooms? | Sorry, do you want me to list apartments with more than 1 bedrooms? | Yes
+How about more than 2 bathrooms?
+Show the top 3 apartment type codes sorted by the average number of rooms in descending order.
+What about the code with the least rooms?
+What is the building ID  with  apartment Suite 645?
+What is the minimum and maximum number of bathrooms of all the apartments?
+what is the building id for the apt number suite 645
+what is the bathroom count and bedroom count of the apartment number suite 645?
+what is the room count in the building 624?
+what is minimum and maximum number of bathrooms and bedrooms of all the apartments?
+what is the building_id of the apartment apt.908?
+Show the distinct apartment numbers of the apartments that have bookings with status code "Confirmed".
+how many apartments have bookings with status code "confirmed"?
+show me the apartment type for the 7 apartments
+what are the apartment numbers for those 7?
+Show the most common apartment type code.
+how many different types of apartments are there?
+what are they?
+Great! how many apartments does each of them have?
+could you please show their names as well? | Do you mean the apartment type code? | yes!
+ok, which of them is the most common one?
+What are the booking start and end dates of the apartments with more than 2 bedrooms?
+What are the dates for apartment 585 ? | Did you mean the booking start and end dates of the apartments with id 585? | Yes
+Okay, what are the dates for the apartment in building 225 ?
+What are the apartment numbers of all apartments with more than 2 bedrooms ?
+What is the booking status code of the apartment with apartment number "Suite 634"?
+What is the booking status of the apartment with number "Suite 634"?
+What is the bathroom count for "Suite 643"?
+What is the apartment type code for "Suite 643"?
+Return the apartment number with the largest number of bedrooms.
+What is the number of the apartment with the greatest number of bedrooms?
+What is the number of the apartment with the least number of bedrooms?
+What is the apartment type code of the apartment with the greatest number of bathrooms?
+How many rooms does that apartment have, and what is the number of that apartment?
+Show the apartment type codes and apartment numbers in the buildings managed by "Kyle".
+How many different apartment building are there?
+How many of those apartment building are managed by Kyle?
+How many apartment type codes are there?
+Show the apartment numbers in the buildings managed by Kyle.
+Show the total number of rooms of the apartments in the building with short name "Columbus Square".
+how many rooms are available in the apartment with short name columbus square
+how many bathrooms are there in these 2 rooms | Did  you mean the number of bathrooms in the  apartment with id  is  2? | yes, thanks
+What are the building full names that contain the word "court"?
+What are the building short name of building id 133?
+Who is building manager of Mercedes House?
+Find the building address of building manager Melyssa.
+What are the building full names that contain the word "court"?
+Show the apartment type code that has the largest number of total rooms, together with the number of bathrooms and number of bedrooms.
+How many apartments are there?
+Which apartments has the largest number of total rooms? | what attribute did you want me to return for the apartment with the largest number of total rooms? the apartment type code? | The apt ID first.
+Now what is the apartment type code of that apartment.
+What are the booking start and end dates of the apartments with more than 2 bedrooms?
+Can you show me the numbers of the apartments?
+Of those apartments, which ones have more than 2 bedrooms?
+Can you provide the booking start dates and end dates, for all the apartments with more than 2 bedrooms?
+Show the most common apartment type code among apartments with more than 1 bathroom.
+Hello!  How many different Apartment Type Codes are there?
+Can you provide me with the most common apartment type code among all of the apartments with at least 1 bathroom?
+Can you list all apartment IDs with "Flat" as the apartment type?
+Thank you! Can you update that list to include the building ID for each of those apartment IDs?
+Show the apartment type code that has the largest number of total rooms, together with the number of bathrooms and number of bedrooms.
+Can you list the apartment type code for each entry?
+Can you add to the table the room count for each entry?
+Can you find the entries with the highest room count and only keep those in the table? | And still return the apartment type code and the room count? | Yes, only for those entries with the highest room count.
+Sorry, I think I misunderstood the question. Can you display only the apartment type codes again for each entry?
+Can you add up the room counts for each distinct apartment type code and display those values along with their respective department type codes?
+Amazing! Can you do add up the bathroom counts and bedroom counts for the department type Flat and add those to the table?
+Show the addresses of the buildings that have apartments with more than 2 bathrooms.
+How many apartments in this table?
+How many flats in this table? | Do you mean the number of apartments whose type code is Flat? | Yes.
+What is the number of apartments whose type code is studio?
+Show each apartment type code, and the maximum and minimum number of rooms for each type.
+How many bathroom count those building 809 has? | The total number of bathrooms building 809 has is NULL. | How about building 808?
+How about the total number of rooms it has?
+Show the total number of rooms of all apartments with facility code "Gym".
+What building has a gym? | Do you mean the building ids of buildings with apartments that have gyms? | Yes please.
+How many bathrooms are there in those buildings?
+How many bedrooms are there in those buildings?
+What is the total number of rooms in those buildings?
+What is the booking status code of the apartment with apartment number "Suite 634"?
+Please show me all the information about each apartment
+Now just the info for Suite 634
+and now just show the booking status code for that suite
+What are the building full names that contain the word "court"?
+Which buildings are in a studio?
+What are their managers?
+Which of the building full names have the word "court" in it?
+Show the distinct apartment numbers of the apartments that have bookings with status code "Confirmed".
+What dates are these apartments booked for?
+How many of these apartments have 3 bedrooms?
+How many bathrooms are in each of these apartments?
+What is the minimum and maximum number of bathrooms of all the apartments?
+How many rooms are in the apartment number suite 645?
+What is the building id of apartment Apt 585?
+What is the minimum and maximum number of bathrooms of all the departments?
+Show the start dates and end dates of all the apartment bookings made by guests with gender code "Female".
+Hello. What are the IDs of guests with gender code Female?
+Show me the start dates of apartment bookings by these IDs please.
+Show me the start dates and end dates of apartment bookings by these IDs please.
+Can you give me the apartment ids for the same list?
+Show the average room count of the apartments that have booking status code "Provisional".
+Hi - can you please tell me the average room count of all Provisional bookings?
+Great - can you list all apartments with more than one bathroom and more than three bedrooms?
+Which apartment has the most bedrooms?
+OK - what was the total number of bookings in 2016?
+How many of those bookings were studio apartments?
+Show the top 3 apartment type codes sorted by the average number of rooms in descending order.
+Can you show me the top 3 highest room counts?
+For each apartment, can you tell me the average of the bedroom count, bathroom count, and room count? | Do you mean for each apartment type, find the average of the bedroom count, bathroom count, and room count? | yes
+Can you tell me the average number of rooms for each apartment type code?
+Can you sort them in descending order?
+Can you show me just the apartment type codes of the top 3?
+Show each apartment type code, and the maximum and minimum number of rooms for each type.
+What are the apartment type codes?
+What are the Maximum rooms for each Apartment type code?
+What are the Minimum rooms for each Apartment type code?
+What is the Apartment type code of building id 808?
+Show the facility codes of apartments with more than 4 bedrooms.
+What are the facility codes of all the apartments that have more than 4 bedrooms?
+What are the apartment numbers of those?
+How many bathrooms do each of those have?

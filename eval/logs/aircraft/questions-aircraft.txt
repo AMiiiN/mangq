@@ -1,0 +1,27 @@
+List the names of aircrafts and that did not win any match.
+Which pilot won the most matches?
+Which aircraft won the most matches?
+what is the name and age of the youngest winning pilot?
+In which country  Swan River , Perth located ?
+How old is Mr. Cristian Halvorson II?
+In which country Mina' Zayid , Abu Dhabi located ?
+what is the name and age of the oldest winning pilot
+where is Flamengo Beach , Rio de Janeiro situated
+List the names of aircrafts and that won matches at least twice.
+What are the names of the aircraft?
+Tell me the Location and Country of the Round 1 ?
+What is the pilot id of Prof. Zackery Collins ?
+What are the total number of Domestic Passengers of airports that contain the word "London".
+Show all information on the airport that has the largest number of international passengers.
+Please show the names of aircrafts associated with airport with name "London Gatwick"
+please show the description of the Aircraft Robinson R-22
+Which airport had the most domestic passengers?
+Number of international passengers per airport?
+Ok. Can you show all the information for London Heathrow airport?
+What are the maximum number of transit passengers of all airports?
+What are the minimum number of transit passengers of all airports?
+What is the average of all domestic passengers
+What airport name has the highest amount of international passengers?
+find the name and age of the pilot who has won the most number of times among the pilots who are younger than 30.
+Show the names of aircrafts that are associated with both an airport named \"London Heathrow\" and an airport named "London Gatwick"
+Yes, I just needs the name of aircrafts in airports
