@@ -1,13 +1,15 @@
-# graphql-mapper
-A tool for mapping simple natural language queries to GraphQL
+# MANGQ
+A natural language interface to knowledge graphs (via GraphQL)
 
 ## 1. Required Packages
 The following packages are required in order to run the tool:
 
   1. Apollo Server (https://www.apollographql.com/docs/apollo-server/getting-started/)
   2. JaroWinkler (https://www.npmjs.com/package/jaro-winkler)
-  3. prompt-sync (https://www.npmjs.com/package/prompt-sync)
-  4. HTTPS (https://www.npmjs.com/package/https)
+
+  If you want to start a server and obtain results from it, you'll also need:
+    3. prompt-sync (https://www.npmjs.com/package/prompt-sync)
+    4. HTTPS (https://www.npmjs.com/package/https)
   
 ## 2. Start
 Open a terminal/cmd window for this folder and follow these 2 steps:
